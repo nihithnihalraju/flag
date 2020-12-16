@@ -1,0 +1,22 @@
+body{
+	background-color: #fff;
+	margin: 0;
+	padding:0; 
+}
+
+.box{
+	position:absolute;
+	width:400px; 
+	min-height:200px;
+	background-color: green; 
+	margin:200px 400px 200px 400px;
+}
+.circle{
+	position: relative;
+	width:8em;
+	min-height:8em;
+	background-color: red;
+	border-radius: 50%;
+    margin-top:40px ;
+    margin-left:132px;
+}
